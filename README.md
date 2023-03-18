@@ -4,7 +4,7 @@
 
 A MERN stack blogging PWA(Progressive Web App), with user authentication and social login using Twitter and Google accounts.
 
-![GitHub](https://img.shields.io/github/license/Rajatm544/MERN-Blog-App?style=flat-square) ![Heroku](https://pyheroku-badge.herokuapp.com/?app=mern-blog-it&path=/&style=flat-square) ![GitHub last commit](https://img.shields.io/github/last-commit/Rajatm544/Mern-Blog-App?style=flat-square) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
+![GitHub]
 
 ## Getting Started
 
@@ -20,23 +20,7 @@ A MERN stack blogging PWA(Progressive Web App), with user authentication and soc
 
 You can obtain the MONGO_URI after create a collectoin on [mongodb atlas](https://www.mongodb.com/cloud/atlas). For the GOOGLE_CLIENT_ID and the TWITTER_CONSUMER_SECRET/ID, you will need to go through the Google developer console and the Twitter developer accounts page respectively
 
-## Demo
 
-The app has been hosted on heroku [here](https://mern-blog-it.herokuapp.com/). P.S: You might have to wait for a few seconds for the heroku site to respond.
-
-<p align="center">
-
- <img alt="login page" src="https://i.ibb.co/bWBJLhB/Screenshot-834.png" width="534" height="300" />
- <img src="https://i.ibb.co/4sHTB83/Screenshot-835.png" alt="home page" width="534" height="300" />
- <img src="https://i.ibb.co/jg6rXpx/Screenshot-836.png" alt="rich editor" width="534" height="300" />
- <br/>
-  <img alt="mobile mockup" src="https://i.ibb.co/ZK3VRNF/mern-blog-it-herokuapp-com-Moto-G4-2.png" width="200" height="356"/> &emsp;
-  <img alt="mobile mockup 2" src="https://i.ibb.co/1TkMF7Q/mern-blog-it-herokuapp-com-Moto-G4-1.png" height="356" width="200" />
-  <br/>
-  <img alt="tablet mockup" src="https://i.ibb.co/bKqyx4w/mern-blog-it-herokuapp-com-i-Pad-1.png" width="300" height="402"/> &emsp;
-  <img alt="tablet mockup 2" src="https://i.ibb.co/vVNQ61w/mern-blog-it-herokuapp-com-i-Pad.png" width="300" height="402"/>
-  
-</p>
 
 ## Info
 
@@ -49,7 +33,7 @@ The app has been hosted on heroku [here](https://mern-blog-it.herokuapp.com/). P
 -   In order to write a new blog post, the user has to login using one of the social media login options provided. The react-social-login package is being used to provide the user authentication and authorization.
 -   It has been deployed using Heroku's free tier and the Mongodb Atlas's cloud service is used for the database service. The access to the database is restricted to only 1 authorised user, and as mentioned earlier, there is no personal user data stored in it.
 -   The rich editor used is the CKEditor 5's React WYSIWYG component (What You See Is What You Get) with a toolkit that supports bold, italics, hyperlinks, image embeds, indentations, blockquotes, video embeds, lists (ordered and unordered) and options to undo and redo changes as needed.
--   The application currently has more then 60 registered users, you can check out the app [here](https://mern-blog-it.herokuapp.com/) or by using the link in the description section
+-   
 
 ## Challenges faced
 
@@ -95,7 +79,7 @@ Some of the technologies used in the development of this web application are as 
 -   [Node.js](https://nodejs.org/en/): A runtime environment to help build fast server applications using JS.
 -   [Express.js](https://expressjs.com/): A popular Node.js framework to build scalable server-side for web applications.
 -   [Mongoose](https://mongoosejs.com/): An ODM(Object Data Modelling)library for MongoDB and Node.js
--   [Heroku](http://heroku.com/): A platform(PaaS) to deploy full stack web applications for free.
+-   
 -   [JSON Web Tokens or JWTs](https://jwt.io/): A standard to securely authenticate HTTP requests
 -   [Bootstrap 4](https://getbootstrap.com/docs/4.0/getting-started/introduction/): A popular framework for building responsive, mobile-first sites.
 
